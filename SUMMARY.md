@@ -1,17 +1,33 @@
 # Table of contents
 
-* [Tổng quan](README.md)
+* [THÔNG TIN TEAM](README.md)
 
-## HỆ THỐNG
+## GENERAL MANAGEMENT
 
-* [Các bộ GSheets](he-thong/cac-bo-gsheets.md)
-* [App bán hàng](he-thong/app-ban-hang.md)
-* [Quản trị sản xuất](he-thong/quan-tri-san-xuat.md)
+* [NOTES HDQT](general-management/notes-hdqt.md)
+* [Tổng hợp links](general-management/tong-hop-links.md)
+
+## KINH DOANH - RETAIL
+
+* [Hội chợ](kinh-doanh-retail/hoi-cho.md)
+* [Social Commerce](kinh-doanh-retail/social-commerce.md)
+* [E-Commerce](kinh-doanh-retail/e-commerce/README.md)
+  * [Từ khoá](kinh-doanh-retail/e-commerce/tu-khoa.md)
+* [Network/ bán phụ](kinh-doanh-retail/network-ban-phu.md)
+* [Product Inventory](kinh-doanh-retail/product-inventory.md)
+
+## DỰ ÁN COMMERCIAL
+
+* [Agency](du-an-commercial/agency.md)
+* [Brand](du-an-commercial/brand.md)
+
+## DỰ ÁN COLAB
+
+* [Artist / KOL](du-an-colab/artist-kol.md)
+* [Co-Brand](du-an-colab/co-brand.md)
+* [Activations / Hội Chợ](du-an-colab/activations-hoi-cho.md)
 
 ## MARCOM
 
-* [Hội chợ](marcom/hoi-cho.md)
-
-***
-
-* [Filaments color inventory - nội bộ](filaments-color-inventory-noi-bo.md)
+* [Visual packages](marcom/visual-packages.md)
+* [Creative & Content](marcom/creative-and-content.md)
